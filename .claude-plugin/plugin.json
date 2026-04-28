@@ -12,14 +12,6 @@
       "command": "mempalace-mcp"
     }
   },
-  "keywords": [
-    "memory",
-    "ai",
-    "rag",
-    "mcp",
-    "chromadb",
-    "palace",
-    "search"
-  ],
-  "repository": "https://github.com/MemPalace/mempalace"
+  "keywords": ["memory", "ai", "rag", "mcp", "chromadb", "palace", "search"],
+  "repository": "https://github.com/FBIKKIBF/mempalace"
 }
