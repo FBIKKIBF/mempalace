@@ -5,18 +5,10 @@
   "author": {
     "name": "milla-jovovich"
   },
-  "homepage": "https://github.com/MemPalace/mempalace",
-  "repository": "https://github.com/MemPalace/mempalace",
+  "homepage": "https://github.com/FBIKKIBF/mempalace",
+  "repository": "https://github.com/FBIKKIBF/mempalace",
   "license": "MIT",
-  "keywords": [
-    "memory",
-    "ai",
-    "rag",
-    "mcp",
-    "chromadb",
-    "palace",
-    "search"
-  ],
+  "keywords": ["memory", "ai", "rag", "mcp", "chromadb", "palace", "search"],
   "skills": "./skills/",
   "hooks": "./hooks.json",
   "mcpServers": {
@@ -30,14 +22,10 @@
     "longDescription": "Give your AI a persistent memory — mine projects and conversations into a searchable palace backed by ChromaDB, with 19 MCP tools, auto-save hooks, and guided skills.",
     "developerName": "milla-jovovich",
     "category": "Coding",
-    "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
-    ],
-    "websiteURL": "https://github.com/MemPalace/mempalace",
-    "privacyPolicyURL": "https://github.com/MemPalace/mempalace",
-    "termsOfServiceURL": "https://github.com/MemPalace/mempalace",
+    "capabilities": ["Interactive", "Read", "Write"],
+    "websiteURL": "https://github.com/FBIKKIBF/mempalace",
+    "privacyPolicyURL": "https://github.com/FBIKKIBF/mempalace",
+    "termsOfServiceURL": "https://github.com/FBIKKIBF/mempalace",
     "defaultPrompt": [
       "Search my memories for recent decisions",
       "Mine this project into my memory palace",
