@@ -11,11 +11,7 @@
   "keywords": ["memory", "ai", "rag", "mcp", "chromadb", "palace", "search"],
   "skills": "./skills/",
   "hooks": "./hooks.json",
-  "mcpServers": {
-    "mempalace": {
-      "command": "mempalace-mcp"
-    }
-  },
+  "mcpServers": "./.mcp.json",
   "interface": {
     "displayName": "MemPalace",
     "shortDescription": "AI memory system for Codex",
